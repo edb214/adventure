@@ -5,38 +5,55 @@ By: EB TN CR EN
 
 ## Getting started
 
+### Installing Python and PyGame
+
+1. Install Python 3.7 64-bit
+  - Download https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe
+  - Run the installer
+  - Tick the "Add Python 3.7 to PATH" option, then "Install Now"
+  - Accept all defaults
+  
+1. Install PyGame
+  - Start menu, type `cmd`
+  - Type `pip install -U pygame --user`
+    - The `-U` means "upgrade any existing copy"
+    - The `--user` means "just for my user", it's optional if you have administration rights on your computer
+  - Wait for PyGame to install
+  - Test it by typing `python -m pygame.examples.aliens`
+
+
+### Getting a local clone of "Adventure"
+
 1. Get a GitHub account
   - Go to https://github.com/
   - Follow the "sign up for GitHub" instructions
   - Make sure you record your username and password in a password manager
   - Choose a Free Account
 
-2. EB has started a project for you already
+1. EB has started a project for you already
   - https://github.com/edb214/adventure
   - You're looking at it!
 
-3. Install GitHub Desktop
+1. Install GitHub Desktop
   - https://desktop.github.com
   - Click Download
   - Run the setup program
   - "Sign in to GitHub.com"
 
-4. Clone the Adventure repository
+1. Clone the Adventure repository
   - Click "Clone a repository from the internet"
   - Select the "URL" tab
   - Type in "edb214/adventure"
   - Click "clone"
 
-5. Click "Show in Explorer"... TADA!!
+1. Click "Show in Explorer"... TADA!!
 
 
-## Making a "commit" to the project, aka "push"
+## How to make changes to the project
+
+### Making a "commit" to the project, aka "push"
 
 1. Before you can do this, EB needs to add you as a collaborator
 
 
-## Getting the latest code, aka "pull"
-
-
-## Installing PyGame
-
+### Getting the latest code, aka "pull"
