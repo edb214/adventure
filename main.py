@@ -3,7 +3,6 @@
 # import the pygame module, so you can use it
 import pygame
 
-# define a main function
 xpos = 0
 ypos = 0
 step_x = 1
