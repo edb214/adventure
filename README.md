@@ -30,6 +30,13 @@ By: EB TN CR EN
 5. Click "Show in Explorer"... TADA!!
 
 
-## Making a "commit" to the project
+## Making a "commit" to the project, aka "push"
 
 1. Before you can do this, EB needs to add you as a collaborator
+
+
+## Getting the latest code, aka "pull"
+
+
+## Installing PyGame
+
