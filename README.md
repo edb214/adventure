@@ -5,13 +5,28 @@ By: EB TN CR EN
 
 ## Getting started
 
+### Uninstall old Python (by default most of you will have an old Python 32 bit)
+
+This is optional, but recommended so you're all on the same version of software
+
+1. Start Control Panel
+  - Start menu, type "control"
+  - Select "Control Panel"
+  - Select "Uninstall a program"
+
+2. Remove Python
+  - Select programs that look like "Python"
+  - Select "Uninstall"
+  - Repeat until all the Python things are gone
+
+
 ### Installing Python and PyGame
 
 1. Install Python 3.7 64-bit
-   - Download https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe
-   - Run the installer
-   - Tick the "Add Python 3.7 to PATH" option, then "Install Now"
-   - Accept all defaults
+  - Download https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe
+  - Run the installer
+  - Tick the "Add Python 3.7 to PATH" option, then "Install Now"
+  - Accept all defaults
 
 2. Install PyGame
   - Start menu, type `cmd`
