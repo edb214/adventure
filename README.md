@@ -78,6 +78,12 @@ This is optional, but recommended so you're all on the same version of software
   - Select/unselect the files you would like to push
   - Click "Commit to master"
   - Click "Push to origin"
+   
+4. Simple Conflict
+  - If it says "The repository has been updated since you last pulled. Try pulling before pushing." then someone else has made changes as well.
+  - Click close
+  - Use the menu bar to select "Repository" then "Pull" (Or Ctrl + Shift + P)
+  - Try step 3 again
 
 ### Getting the latest code, aka "pull"
 1.  Make sure all your files are saved
