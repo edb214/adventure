@@ -86,4 +86,4 @@ This is optional, but recommended so you're all on the same version of software
   - Open GitHub Desktop
   - Check Current respository is set to "adventure"
   - Click "Fetch origin"
-  - Click "Pull origin"
+  - If there are changes you don't have locally, then "Pull origin" will be displayed and you should click it.
