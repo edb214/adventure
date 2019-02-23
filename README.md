@@ -7,18 +7,18 @@ By: EB TN CR EN
 
 ### Installing Python and PyGame
 
-1. Install Python 3.7 64-bit
-  - Download https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe
-  - Run the installer
-  - Tick the "Add Python 3.7 to PATH" option, then "Install Now"
-  - Accept all defaults
-1. Install PyGame
-  - Start menu, type `cmd`
-  - Type `pip install -U pygame --user`
-    - The `-U` means "upgrade any existing copy"
-    - The `--user` means "just for my user", it's optional if you have administration rights on your computer
-  - Wait for PyGame to install
-  - Test it by typing `python -m pygame.examples.aliens`
+ 1. Install Python 3.7 64-bit
+   - Download https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe
+   - Run the installer
+   - Tick the "Add Python 3.7 to PATH" option, then "Install Now"
+   - Accept all defaults
+ 1. Install PyGame
+   - Start menu, type `cmd`
+   - Type `pip install -U pygame --user`
+     - The `-U` means "upgrade any existing copy"
+     - The `--user` means "just for my user", it's optional if you have administration rights on your computer
+   - Wait for PyGame to install
+   - Test it by typing `python -m pygame.examples.aliens`
 
 
 ### Getting a local clone of "Adventure"
