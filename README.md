@@ -12,7 +12,6 @@ By: EB TN CR EN
   - Run the installer
   - Tick the "Add Python 3.7 to PATH" option, then "Install Now"
   - Accept all defaults
-  
 1. Install PyGame
   - Start menu, type `cmd`
   - Type `pip install -U pygame --user`
