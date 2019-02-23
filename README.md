@@ -78,6 +78,9 @@ This is optional, but recommended so you're all on the same version of software
   - Select/unselect the files you would like to push
   - Click "Commit to master"
   - Click "Push to origin"
+  
+4. Test merge conflict
+
 
 ### Getting the latest code, aka "pull"
 1.  Make sure all your files are saved
