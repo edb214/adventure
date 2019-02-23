@@ -70,5 +70,20 @@ This is optional, but recommended so you're all on the same version of software
 
 1. Before you can do this, EB needs to add you as a collaborator
 
+2. Make sure all the files you want to push are saved
+
+3. Push to GitHub
+  - Open GitHub Desktop
+  - Check Current respository is set to "adventure"
+  - Select/unselect the files you would like to push
+  - Click "Commit to master"
+  - Click "Push to origin"
 
 ### Getting the latest code, aka "pull"
+1.  Make sure all your files are saved
+
+2. Pull from GitHub
+  - Open GitHub Desktop
+  - Check Current respository is set to "adventure"
+  - Click "Fetch origin"
+  - Click "Pull origin"
