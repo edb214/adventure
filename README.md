@@ -70,7 +70,7 @@ This is optional, but recommended so you're all on the same version of software
 
 1. Before you can do this, EB needs to add you as a collaborator
 
-2. Make sure all the files you want to push are saved
+2. Make sure all the files you want to push are saved, then ALWAYS pull
 
 3. Push to GitHub
   - Open GitHub Desktop
@@ -83,7 +83,16 @@ This is optional, but recommended so you're all on the same version of software
   - If it says "The repository has been updated since you last pulled. Try pulling before pushing." then someone else has made changes as well.
   - Click close
   - Use the menu bar to select "Repository" then "Pull" (Or Ctrl + Shift + P)
+  - If you get a conflict, go to number 5 (GitHub Desktop will also show an exclamation mark against conflicted files).
   - Try step 3 again
+  
+5. Resolving merge conflict
+  - Open the broken file(s) in your editor
+  - Look for "<<<<<<<" and manually fix the merge conflict
+  - Save the file(s)
+  - Click on the conflicted files in GitHub Desktop - it should say "no conflicts remaining", keep fixing files until it does
+  - Click "Commit merge"
+  - Repeat step 3
 
 ### Getting the latest code, aka "pull"
 1.  Make sure all your files are saved
