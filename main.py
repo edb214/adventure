@@ -11,7 +11,7 @@ step_y = 1
 pygame.init()
 
 screen = pygame.display.set_mode((1000,750))
-image = pygame.image.load("alex.jpg")  
+image = pygame.image.load("protagonist.png")  
 screen.fill((100,8,60)) 
 pygame.display.flip()
 
